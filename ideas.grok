@@ -1,0 +1,1 @@
+a web app that listens on port 8088 and sends an email to morgan@morganism.dev with the payload pf the message sent to the web app on port 8088. write the app in ruby using sinatra
